@@ -42,7 +42,7 @@ public class Exercise {
     
     public void printChars() {
         int x = 3;
-        while (x >= 1) {
+        while (x > 0) {
             if (x > 2) {
                 System.out.print("a");
             }
