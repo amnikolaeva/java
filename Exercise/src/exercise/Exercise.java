@@ -19,5 +19,4 @@ public class Exercise {
         pochvaDep.setArrayOfEmployes(employes);
         pochvaDep.printEmployes();
     }
-    
 }
